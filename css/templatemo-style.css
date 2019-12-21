@@ -256,7 +256,7 @@ ul {
 }
 
 .b-red {
-  background-image: url(../img/second-bg.png);
+  background-image: url('https://isorepublic.com/wp-content/uploads/2018/11/0060-1-1100x734.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -267,7 +267,7 @@ ul {
 
 .b-green {
   margin-top: -2px;
-  background-image: url(../img/third-bg.png);
+  background-image: url('https://isorepublic.com/wp-content/uploads/2018/11/0060-1-1100x734.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -277,7 +277,7 @@ ul {
 
 .b-yellow {
   margin-top: -1px;
-  background-image: url(../img/fourth-bg.png);
+  background-image: url('https://isorepublic.com/wp-content/uploads/2018/11/0060-1-1100x734.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
