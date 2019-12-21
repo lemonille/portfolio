@@ -139,7 +139,7 @@ ul {
       -ms-flex-align: center;
           align-items: center;
   z-index: 2;
-  background: #716c45;
+  background: #ccb81f;
   cursor: pointer;
   -webkit-transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -318,7 +318,7 @@ ul {
 
 .home-content .home-box-content {
   margin-top: 45px;
-	background-color: #716c45;
+	background-color: #ccb81f;
 	position: relative;
 	right: -100px;
 	padding: 30px;
