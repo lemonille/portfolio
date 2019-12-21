@@ -32,7 +32,7 @@ ul {
 
 .primary-button a {
   display: inline-block;
-  background-color: #fa5252;
+  background-color: #b92929;
   color: #fff;
   letter-spacing: 1px;
   font-size: 11px;
@@ -115,7 +115,7 @@ ul {
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 .nav__link:hover {
-  background: #fa5252;
+  background: #b92929;
 }
 @media (max-width: 640px) {
   .nav {
@@ -139,7 +139,7 @@ ul {
       -ms-flex-align: center;
           align-items: center;
   z-index: 2;
-  background: #ccb81f;
+  background: #fde639;
   cursor: pointer;
   -webkit-transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -295,7 +295,7 @@ ul {
 
 .home-content {
 	height: 90vh;
-	background-color: rgba(45, 58, 75, 0.5);
+	background-color: rgba(204, 180, 8, 0.5);
 	padding: 0px 60px;
 	position: relative;
 	margin: 10vh auto 0 auto;
@@ -318,7 +318,7 @@ ul {
 
 .home-content .home-box-content {
   margin-top: 45px;
-	background-color: #ccb81f;
+	background-color: #fde639;
 	position: relative;
 	right: -100px;
 	padding: 30px;
@@ -334,22 +334,22 @@ ul {
 	display: inline-block;
 	padding-bottom: 5px;
 	font-size: 22px;
-	color: #fff;
+	color: #000;
 	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	margin-top: 0px;
 	margin-bottom: 10px;
-	border-bottom: 2px solid #fff;
+	border-bottom: 2px solid #000;
 }
 
 .home-content .left-text h4 em {
-	color: #fa5252;
+	color: #b92929;
 	font-style: normal;
 }
 
 .home-content .left-text p {
-	color: #fff;
+	color: #000;
 	margin-bottom: 25px;
 }
 
@@ -367,7 +367,7 @@ ul {
 
 .about-content {
   height: 100vh;
-  background-color: rgba(45, 58, 75, 0.5);
+  background-color: rgba(204, 180, 8, 0.5);
   padding: 0px 60px;
   position: relative;
   margin: 0 auto;
@@ -414,8 +414,8 @@ ul {
 
 .about-content .primary-button a:hover {
   background-color: transparent;
-  color: #fa5252;
-  border: 1px solid #fa5252;
+  color: #b92929;
+  border: 1px solid #b92929;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
@@ -431,7 +431,7 @@ ul {
 
 .projects-content {
   height: 100vh;
-  background-color: rgba(45, 58, 75, 0.5);
+  background-color: rgba(204, 180, 8, 0.5);
   padding: 0px 60px;
   position: relative;
   margin: 0 auto;
@@ -478,8 +478,8 @@ ul {
 
 .projects-content .primary-button a:hover {
   background-color: transparent;
-  color: #fa5252;
-  border: 1px solid #fa5252;
+  color: #b92929;
+  border: 1px solid #b92929;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
@@ -496,7 +496,7 @@ ul {
 
 .contact-content {
   height: 100vh;
-  background-color: rgba(45, 58, 75, 0.5);
+  background-color: rgba(204, 180, 8, 0.5);
   padding: 0px 60px;
   position: relative;
   margin: 0 auto;
@@ -549,7 +549,7 @@ ul {
 
 .contact-content button {
   display: inline-block;
-  background-color: #fa5252;
+  background-color: #b92929;
   color: #fff;
   letter-spacing: 1px;
   font-size: 11px;
@@ -563,8 +563,8 @@ ul {
 
 .contact-content button:hover {
   background-color: transparent;
-  color: #fa5252;
-  border: 1px solid #fa5252;
+  color: #b92929;
+  border: 1px solid #b92929;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
@@ -1127,7 +1127,7 @@ body.lb-disable-scrolling {
 .owl-theme .owl-dots .active span {
   width: 10px;
   height: 10px;
-  background: #fa5252;
+  background: #b92929;
   display: block;
   -webkit-backface-visibility: visible;
   transition: opacity .2s ease;
